@@ -2,11 +2,7 @@
   margin-bottom: 20px;
 }
 
-.form-field {
+.form-field:not(:last-child) {
   display: block;
   margin-bottom: 10px;
-}
-
-.delete-bottom-margin {
-  margin-bottom: 0;
 }
